@@ -22,7 +22,7 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@types/react-router-dom": "^5.3.3",
-    "axios": "^0.27.2",
+    "axios": "^1.6.4",
     "binary-parser": "^2.2.1",
     "coingecko-api": "^1.0.10",
     "dotenv": "^16.0.2",
